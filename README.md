@@ -1,4 +1,3 @@
-
 # ♻️ Bin Buddy – Waste Segregation App for Kids
 
 **Bin Buddy** is an interactive web and mobile-friendly app that teaches children how to properly segregate waste using a fun, gamified approach. It uses points, motivational feedback, and a searchable guide to help kids learn what goes in which bin.
